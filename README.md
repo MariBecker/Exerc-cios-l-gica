@@ -2,7 +2,7 @@
 
 ## Exercícios de lógica
 
-No curso de lógica de programação II, da plataforma [Alura](https://cursos.alura.com.br/), foi desenvolvido alguns exercícios básicos com Javascript e HTML. Foram criados os seguintes exercícios:
+No curso de lógica de programação I, da plataforma [Alura](https://cursos.alura.com.br/), foi desenvolvido alguns exercícios básicos com Javascript e HTML. Foram criados os seguintes exercícios:
 
 * :point_right: Advinhe o segredo;
 * :earth_americas: Quantas copas do mundo ja existiu;
